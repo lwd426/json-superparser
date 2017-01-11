@@ -1,4 +1,4 @@
-# parse-json
+# json-superparser
 
 > Parse JSON with super way even if the key is not a string
 
