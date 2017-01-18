@@ -1,8 +1,8 @@
 {
   "name": "json-superparser",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Parse json string to object with a super way",
-  "main": "index.js",
+  "main": "./lib/index.js",
   "scripts": {
     "test": "mocha --reporter spec --timeout 2000 --recursive test/"
   },
@@ -10,12 +10,8 @@
     "type": "git",
     "url": "git@github.com:lwd426/json-superparser.git"
   },
-  "bin": {
-    "sdksum": "./lib/index.js"
-  },
   "keywords": [
-    "sdk",
-    "sumup"
+    "json"
   ],
   "author": "lwd426",
   "license": "MIT",
